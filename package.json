@@ -88,9 +88,7 @@
     "vitest": "^0.28.5"
   },
   "pnpm": {
-    "patchedDependencies": {
-      "hotkeys-js@3.10.1": "patches/hotkeys-js@3.10.1.patch"
-    },
+    "patchedDependencies": {},
     "peerDependencyRules": {
       "ignoreMissing": [
         "@algolia/client-search"
